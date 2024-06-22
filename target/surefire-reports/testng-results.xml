@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-23T00:57:00 IST" name="vspace_TestSuite" finished-at="2024-06-23T00:57:03 IST" duration-ms="3188">
+    <groups>
+    </groups>
+    <test started-at="2024-06-23T00:57:00 IST" name="vspace_TestProject" finished-at="2024-06-23T00:57:03 IST" duration-ms="3188">
+      <class name="gitactions.test">
+        <test-method signature="testcase()[pri:0, instance:gitactions.test@47987356]" started-at="2024-06-23T00:57:00 IST" name="testcase" finished-at="2024-06-23T00:57:03 IST" duration-ms="3151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+      </class> <!-- gitactions.test -->
+    </test> <!-- vspace_TestProject -->
+  </suite> <!-- vspace_TestSuite -->
+</testng-results>

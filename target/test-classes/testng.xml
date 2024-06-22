@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="vspace_TestSuite" >
+
+
+	<test name="vspace_TestProject">
+		<classes>
+			<class name = "gitactions.test" />
+				
+		</classes>	
+	</test> 
+	
+</suite> <!-- Suite -->
